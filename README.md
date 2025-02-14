@@ -1,14 +1,20 @@
-<h1 align="center">Hi 🖖, I'm Pedro Carvalho</h1>
+<img align="right" height="300" src="https://i.gifer.com/4hsh.gif"  />
 
 ###
 
-<p align="center">Nerd, passionate about technology, frontend developer, enjoy working in teams, gym lifestyle.</p>
+<h1 align="left">Hi 🖖, I'm Pedro Carvalho</h1>
 
 ###
 
-<p align="center">Find me elsewhere</p>
+<p align="left">Nerd, passionate about technology, frontend developer, enjoy working in teams, gym lifestyle.</p>
 
-<div align="center">
+###
+
+<p align="left">Find me elsewhere</p>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/pedro-julio-guimar%C3%A3es-carvalho-144a12154/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
@@ -22,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
@@ -38,21 +44,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroJGC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=PedroJGC&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroJGC&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/5RTG.gif"  />
 </div>
 
 ###
