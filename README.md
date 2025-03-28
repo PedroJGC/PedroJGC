@@ -2,15 +2,11 @@
 
 ###
 
-<h1 align="left">Hi 🖖, I'm Pedro Carvalho</h1>
+<h1 align="left">Hi there! I'm Pedro Carvalho 👋</h1>
 
 ###
 
-<p align="left">Nerd, passionate about technology, frontend developer, enjoy working in teams, gym lifestyle.</p>
-
-###
-
-<p align="left">Find me elsewhere</p>
+<p align="left">💻 Front-End Developer | HTML, CSS, JavaScript  <br>🚀 Learning React & TypeScript  <br>🧠 Passionate about tech, problem-solving, and building beautiful UIs  <br>🏋️ Gym rat with a disciplined mindset  <br>🔎 Looking for my first opportunity in tech!</p>
 
 ###
 
