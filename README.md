@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">💻 Front-End Developer | HTML, CSS, JavaScript  <br>🚀 Learning React & TypeScript  <br>🧠 Passionate about tech, problem-solving, and building beautiful UIs  <br>🏋️ Gym rat with a disciplined mindset  <br>🔎 Looking for my first opportunity in tech!</p>
+<p align="left">
+👨‍💻 About Me<br><br>- 🎓 Graduated in Systems Analysis and Development (2021)  <br>- 💻 Currently focused on Front-End Development  <br>- 📚 Studying Javascript | React | NodeJs | TypeScript to become a Fullstack Developer  <br>- ✨ I enjoy solving problems and building beautiful, functional interfaces  <br>- 🏋️ Passionate about training — discipline in code and in life</p>
+
+###
+
+<p align="left">Find me elsewhere</p>
 
 ###
 
