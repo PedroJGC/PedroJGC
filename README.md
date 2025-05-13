@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pedro-julio-guimar%C3%A3es-carvalho-144a12154/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-julio-guimar%C3%A3es-carvalho-144a12154/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/pedrocarvalho_classic?igsh=cjVlY3o1aHJ0djAx&utm_source=qr" target="_blank">
