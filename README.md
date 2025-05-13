@@ -1,10 +1,3 @@
-###
-<style>
-a {
-text-decoration: none;
-}
-</style>
-
 <img align="right" height="253" src="https://i.gifer.com/5RTG.gif"  />
 
 ###
