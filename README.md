@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-### 👨‍💻 About Me<br><br>- 🎓 Graduated in **Systems Analysis and Development** (2021)  <br>- 💻 Currently focused on **Front-End Development**  <br>- 📚 Studying Javascript | React | NodeJs | TypeScript to become a Fullstack Developer  <br>- ✨ I enjoy solving problems and building beautiful, functional interfaces  <br>- 🏋️ Passionate about training — discipline in code and in life</p>
+### 👨‍💻 About Me<br><br>- 🎓 Graduated in Systems Analysis and Development (2021)  <br>- 💻 Currently focused on Front-End Development  <br>- 📚 Studying Javascript | React | NodeJs | TypeScript to become a Fullstack Developer  <br>- ✨ I enjoy solving problems and building beautiful, functional interfaces  <br>- 🏋️ Passionate about training — discipline in code and in life</p>
 
 ###
 
