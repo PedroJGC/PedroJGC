@@ -1,11 +1,11 @@
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Pedro+Carvalho+%F0%9F%91%8B;Front-End+Developer;Transforming+ideas+into+code;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
-
+<!--
 <div align="right">
   <img align="right" height="200" src="https://i.gifer.com/5RTG.gif" alt="Coding GIF" />
 </div>
-
+-->
 <br clear="both"/>
 
 ---
